@@ -1,0 +1,64 @@
+
+input {
+    height: 40px !important;
+    font-size: 21px !important;
+    padding-left: 8px; 
+}
+
+ input[readonly] {
+    background-color: #ccc;
+}
+
+
+.input-group-addon{
+    height: 40px !important;
+    padding: 0 !important;
+    line-height: 40px !important;
+    width: 35px !important;
+    border: 0 !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
+
+
+#project .input-group-addon{
+    background-color: #000 !important;
+}
+
+
+#taxIndexInput .input-group-addon{
+    background-color: #ce0b0b !important;
+}
+
+#taxValueInput .input-group-addon{
+    background-color: #ce0b0b !important;
+}
+
+#comercialIndexInput .input-group-addon {
+    background-color: #993399 !important;
+}
+
+#comercialValueInput .input-group-addon{
+    background-color: #993399 !important;
+}
+#managementIndexInput .input-group-addon {
+    background-color: #663399 !important;
+}
+
+#managementValueInput .input-group-addon{
+    background-color: #663399 !important;
+}
+#devIndexInput .input-group-addon {
+    background-color: #333399 !important;
+}
+
+#devValueInput .input-group-addon{
+    background-color: #333399 !important;
+}
+#savingsIndexInput .input-group-addon {
+    background-color: #5bb22c !important;
+}
+
+#savingsValueInput .input-group-addon{
+    background-color: #5bb22c !important;
+}
